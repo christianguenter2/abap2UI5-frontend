@@ -18,6 +18,7 @@
     <APP_ID>Z2UI5_IAM_EXT</APP_ID>
     <APP_TYPE>EXT</APP_TYPE>
     <ABAP_LANGUAGE_VERSION>5</ABAP_LANGUAGE_VERSION>
+    <UI_APP_ID>Z2UI5_UI5R</UI_APP_ID>
     <SERVICE>
      <item>
       <REL_NAME>Z2UI5</REL_NAME>
@@ -29,7 +30,7 @@
       <TYPE_TEXT>HTTP Service</TYPE_TEXT>
      </item>
     </SERVICE>
-    <PUBLISH_STATUS>u</PUBLISH_STATUS>
+    <PUBLISH_STATUS>p</PUBLISH_STATUS>
    </SIA6>
   </asx:values>
  </asx:abap>
