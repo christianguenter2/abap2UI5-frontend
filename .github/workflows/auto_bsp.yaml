@@ -4,9 +4,6 @@ on:
   push:
     branches: [cloud]
 
-permissions:
-  contents: read
-
 jobs:
   auto_bsp:
     runs-on: ubuntu-latest
