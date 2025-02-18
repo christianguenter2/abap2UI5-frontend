@@ -1,3 +1,8 @@
+[![ABAP_STANDARD](https://github.com/abap2UI5/frontend/actions/workflows/ABAP_STANDARD.yaml/badge.svg?branch=standard)](https://github.com/abap2UI5/frontend/actions/workflows/ABAP_STANDARD.yaml)
+[![ABAP_CLOUD](https://github.com/abap2UI5/frontend/actions/workflows/ABAP_CLOUD.yaml/badge.svg?branch=cloud)](https://github.com/abap2UI5/frontend/actions/workflows/ABAP_CLOUD.yaml)
+<br>
+[![auto_bsp](https://github.com/abap2UI5/frontend/actions/workflows/auto_bsp.yaml/badge.svg?branch=cloud)](https://github.com/abap2UI5/frontend/actions/workflows/auto_bsp.yaml)
+
 # abap2UI5-frontend
 
 This repository contains an abap2UI5 HTTP service. By pulling this repository, abap2UI5 runs out of the box eliminating the need for any manual configuration steps. Additionally, this repository includes a BSP and an app for cloud environments, enabling the integration of abap2UI5 apps into SAP Fiori Launchpads. For more information on installation, check out the [installation guide.](https://abap2ui5.github.io/docs/configuration/installation.html)
