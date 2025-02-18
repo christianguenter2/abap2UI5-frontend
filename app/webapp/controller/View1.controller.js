@@ -9,6 +9,7 @@ sap.ui.define(["sap/ui/core/mvc/Controller", "sap/ui/core/mvc/XMLView", "sap/ui/
 
             onInit() {
 
+                // test
                 z2ui5.oRouter.attachRouteMatched(function (oEvent) {
                     z2ui5.checkInit = true;
                     Server.Roundtrip();
