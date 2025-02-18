@@ -16,7 +16,9 @@ jobs:
     - uses: actions/setup-node@v3
       with:
         node-version: 20
-    - run: npm run build_bsp
+    - run: |
+        npm ci
+        npm run build_bsp
 
     - name: Commit Changes
       run: |
