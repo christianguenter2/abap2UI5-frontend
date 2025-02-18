@@ -19,4 +19,4 @@ jobs:
       with:
         node-version: 20
     - run: npm ci
-    - run: npx abaplint .github/abaplint/abap_702.jsonc
+    - run: npx abaplint
