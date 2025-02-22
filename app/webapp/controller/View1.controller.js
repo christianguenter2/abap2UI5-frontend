@@ -16,7 +16,7 @@ sap.ui.define(["sap/ui/core/mvc/Controller", "sap/ui/core/mvc/XMLView", "sap/ui/
 
             },
             async onAfterRendering() {
-                    
+
                 if (!z2ui5.oResponse) {
                     return;
                 }
